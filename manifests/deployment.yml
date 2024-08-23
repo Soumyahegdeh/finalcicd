@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: spring-boot-app
-        image: soumyahe/2
+        image: soumyahe/replaceImageTag
         ports:
         - containerPort: 8080
